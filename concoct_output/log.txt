@@ -1,0 +1,12 @@
+2023-08-06 23:13:41,689:INFO:root:Results created at /data/wangyang/metagenomicHost/assembly/CONCOCT/tests/test_data/large_contigs/concoct_output
+2023-08-06 23:13:43,272:INFO:root:Successfully loaded composition data.
+2023-08-06 23:13:43,298:INFO:root:Successfully loaded coverage data.
+2023-08-06 23:13:43,337:INFO:root:Performed PCA, resulted in 25 dimensions
+2023-08-06 23:13:43,516:INFO:root:Wrote original filtered data file.
+2023-08-06 23:13:43,549:INFO:root:Wrote PCA transformed file.
+2023-08-06 23:13:43,558:INFO:root:Wrote PCA components file.
+2023-08-06 23:13:43,558:INFO:root:PCA transformed data.
+2023-08-06 23:13:43,558:INFO:root:Will call vbgmm with parameters: /data/wangyang/metagenomicHost/assembly/CONCOCT/tests/test_data/large_contigs/concoct_output/, 400, 1000, 1, 500
+2023-08-06 23:13:45,185:INFO:root:Wrote assign file.
+2023-08-06 23:13:45,185:INFO:root:CONCOCT Finished
+2023-08-06 23:13:45,185:INFO:root:CONCOCT Finished, the log shows how it went.

@@ -1,0 +1,1 @@
+Namespace(coverage_file='coverage_table.tsv', composition_file='contigs.fa', clusters=400, kmer_length=4, threads=1, length_threshold=1000, read_length=100, total_percentage_pca=90, basename='concoct_output/', seed=1, iterations=500, no_cov_normalization=False, no_total_coverage=False, no_original_data=False, converge_out=False, debug=False, pca_components=0.9)
